@@ -4,9 +4,9 @@ from .completion import ChatCompletionAgent
 from .research import ResearchAgent
 
 __all__ = [    
-    "ChatCompletionAgent",    
-    "ChatConversationAgent",    
-    "CodeAnalysisAgent",    
+    "ChatCompletionAgent", 
+    "ChatConversationAgent", 
+    "CodeAnalysisAgent", 
     "CodeArchitectureAgent",    
     "CodeGenerationAgent",    
     "CodeTestingAgent",    
