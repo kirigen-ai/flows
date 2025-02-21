@@ -1,0 +1,17 @@
+torch       --index-url https://download.pytorch.org/whl/cu126
+torchaudio  --index-url https://download.pytorch.org/whl/cu126
+torchvision --index-url https://download.pytorch.org/whl/cu126
+
+pydantic
+pydantic-ai
+pydantic-graph
+
+accelerate
+datasets
+transformers
+diffusers
+xformers
+
+huggingface_hub
+huggingface_hub[cli]
+huggingface_hub[hf_transfer]
